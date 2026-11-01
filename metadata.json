@@ -1,0 +1,6 @@
+{
+  "name": "Luckyzilla - Premium Prize Draw Platform",
+  "description": "A luxury automotive-inspired prize draw platform with verifiable cryptographic draw engine, multi-tier prize catalogue, dual Hindi-English interface, and compliance guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
